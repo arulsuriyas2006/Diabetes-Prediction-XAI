@@ -34,8 +34,8 @@ NumPy
 
 ## Team Members
 
-Member 1
+Dilshan s 23CSR053
 
-Member 2
+Arulsuriya S 23CSR022
 
-Member 3
+Aswin E 23CSR027
