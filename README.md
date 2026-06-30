@@ -19,19 +19,19 @@ Explainable AI
 ## Technologies
 
 
-Python
+Python              -  Used to develop the complete machine learning application.
 
-Scikit-learn
+Scikit-learn        -  Used to build and evaluate machine learning models.
 
-TensorFlow/Keras
+TensorFlow/Keras    -  Used to implement deep learning models (ANN).
+  
+SHAP                -  Used to explain which features influence the prediction.
 
-SHAP
+LIME                -  Used to provide local explanations for individual predictions.
 
-LIME
+Pandas              -  Used for data loading, cleaning, and preprocessing.
 
-Pandas
-
-NumPy
+NumPy               -  Used for numerical computations and array operations.
 
 ## Team Members
 
