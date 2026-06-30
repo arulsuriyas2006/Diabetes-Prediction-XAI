@@ -35,7 +35,7 @@ NumPy
 
 ## Team Members
 
-Dilshan s 23CSR053
+Dilshan S 23CSR053
 
 Arulsuriya S 23CSR022
 
